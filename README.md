@@ -7,7 +7,7 @@ I'm not good enough, but I want to improve my programming skills, so I'm stuydin
 
 <h3 align="center">📚 Skills 📚</h3>
 <p align="center">
-  ###Language
+<h2>Language</h2>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
