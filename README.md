@@ -1,5 +1,6 @@
 <p align="center">
 👋 Hi there! 👋
+<br>
 I am a student majoring in computer science.
 I'm not good enough, but I want to improve my programming skills, so I'm stuyding.
 </p>
