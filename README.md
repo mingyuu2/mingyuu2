@@ -1,8 +1,8 @@
 <h3 align="center">👋 Hi there! 👋</h3>
 <p align="center">
-<br>
-I am a student majoring in computer science. <br>
-I'm not good enough, but I want to improve my programming skills, so I'm stuyding. <br>
+  <br>
+  I am a student majoring in computer science. <br>
+  I'm not good enough, but I want to improve my programming skills, so I'm stuyding. <br>
 </p>
 
 
