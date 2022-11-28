@@ -1,5 +1,5 @@
+<h3 align="center">👋 Hi there! 👋</h3>
 <p align="center">
-👋 Hi there! 👋
 <br>
 I am a student majoring in computer science. <br>
 I'm not good enough, but I want to improve my programming skills, so I'm stuyding. <br>
@@ -14,7 +14,7 @@ I'm not good enough, but I want to improve my programming skills, so I'm stuydin
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="center">🌈 Socials 🌈</h3>
+<h3 align="center">🌈 Social 🌈</h3>
 <p align="center">
   <a href="https://github.com/mingyuu2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=appveyor&logoColor=white&link=https://github.com/mingyuu2"/></a>&nbsp
   <a href="https://www.instagram.com/mngyuu2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=appveyor&logoColor=white&link=https://www.instagram.com/mngyuu2/"/></a>&nbsp
